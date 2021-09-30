@@ -5,12 +5,9 @@ int main() {
     int n;
     cout<<"Enter the number: ";
     cin>> n;
-
-    if (n%2==0){
-        cout<<"The number is Even"<<endl;
-    }
-    else {
-        cout<<"The number is odd"<<endl;
-    }
+if(num%2==0)
+        cout<<"\nIt is an Even Number.";
+    else
+        cout<<"\nIt is an Odd Number.";
     return 0;
 } 
