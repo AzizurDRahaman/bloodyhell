@@ -6,8 +6,8 @@ int main() {
     cout<<"ENTER THE NUMBERS: ";
     cin>> n;
 if(num%2==0)
-        cout<<"\nIt is an Even Number.";
+        cout<<"\n It will be an Even Number.";
     else
-        cout<<"\nIt is an Odd Number.";
+        cout<<"\n It will be an Odd Number.";
     return 0;
 } 
